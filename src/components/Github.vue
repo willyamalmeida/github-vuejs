@@ -19,7 +19,7 @@
         </main>
         <footer class="footer mt-3">
             <div class="container">
-                <span class="text-muted">{{msg}}</span>
+                <span class="text-muted">Github with VueJs</span>
             </div>
         </footer>
     </div>
@@ -29,9 +29,6 @@
 export default {
     name: 'Github',
     data() {
-        return { 
-            msg: 'Github with VueJs'
-        }
     }
 };
 </script>
