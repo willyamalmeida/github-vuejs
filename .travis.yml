@@ -9,4 +9,4 @@ cache:
     - node_modules
 
 script:
-  - bash ./deploy.sh
+  - bash deploy.sh

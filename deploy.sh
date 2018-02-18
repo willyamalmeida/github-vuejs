@@ -13,7 +13,7 @@ fi
 cd dist
 git init
 
-git config user.name "Travis CI"
+git config user.name "${GH_REF}"
 git config user.email "willyamalmeida@hotmail.com"
 
 git add .
