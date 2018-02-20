@@ -2,6 +2,8 @@
 
 > Using github API with VueJs
 
+[![Build Status](https://travis-ci.org/willyamalmeida/github-vuejs.svg?branch=master)](https://travis-ci.org/willyamalmeida/github-vuejs)
+
 ## Build Setup
 
 ``` bash
@@ -13,9 +15,6 @@ npm run dev
 
 # build for production with minification
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
 ## Example
